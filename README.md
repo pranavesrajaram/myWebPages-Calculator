@@ -1,5 +1,6 @@
 # myWebPages-Calculator
 
-# THIS IS A SIMPLE AND COOL CALCULATOR CREATED USING html, css and js.
+THIS IS A SIMPLE AND COOL CALCULATOR CREATED USING html, css and js.
 
-# THANKS
+THANKS
+-Pranaves
